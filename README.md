@@ -25,7 +25,7 @@ Link the Trello board that you used to plan this project here.
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one word, otherwise it might not properly get display on this README.
 
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project](sevenuml.png)
 
 ## Video
 
@@ -37,8 +37,10 @@ Record a short video of your project to display here on your README. You can do 
 - Upload the thumbnail image to your repo.
 - Use the following markdown code:
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my project](thumbshot.png)](youtube.com/watch?v=dL72SUOIIMg)
 
 ## Project Description
 
 Write a description the personal interest or problem that your animation addresses. Then explain the user story(s) you identified, and how they help frame making your animation.
+
+I like cooking as a profession, and I also like animation. I wanted my animation to show my interest in cooking, but didn't want to be to big. So I settled for myself scrolling social media to find a recipe because it is normally how I find recipes in real life. My user story I made is "someone scrolls through social media to find a recipe to make." It helped me frame the animation because of the storyboard images that I created. It showed every scene and told me how I should code it to make it look like it. I really like how it turned out, even though it is just three short scenes.
